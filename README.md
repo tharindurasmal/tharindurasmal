@@ -30,9 +30,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tharindurasmal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=tharindurasmal&theme=dark&hide_border=false)<br/><p align="center">
+![](https://github-readme-streak-stats.herokuapp.com/?user=tharindurasmal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tharindurasmal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=tharindurasmal&icon=0&color=0)](https://visitcount.itsvg.in) </p>
+[![](https://visitcount.itsvg.in/api?id=tharindurasmal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
