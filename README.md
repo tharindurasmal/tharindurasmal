@@ -35,7 +35,7 @@
 
 ---
 
-# 📊 GitHub Stats & Activity:
+# 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tharindurasmal&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
@@ -60,7 +60,7 @@
 
 ---
 
-## 🌐 Connect with me:
+## 🌐 Connect with me
 <p align="left">
 <a href="https://twitter.com/tharindurasmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tharindu-rasmal-8a1051266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
@@ -72,7 +72,7 @@
 
 ---
 
-## 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50"/></a>
@@ -102,7 +102,7 @@
 
 ---
 
-## ☕ Support Me:
+## ☕ Support Me
 <p>
   <a href="https://www.buymeacoffee.com/tharinduraw">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
