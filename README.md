@@ -1,10 +1,6 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tharindurasmal/tharindurasmal/output/snake-dark.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/tharindurasmal/tharindurasmal/output/snake.svg" />
-  </picture>
+  <img src="https://github.com/tharindurasmal/tharindurasmal/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
-
 
 
 <p align="center">
