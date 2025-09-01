@@ -31,12 +31,28 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tharindurasmal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=tharindurasmal&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tharindurasmal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+# 📊 GitHub Stats & Activity:
 
-[![](https://visitcount.itsvg.in/api?id=tharindurasmal&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tharindurasmal&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tharindurasmal&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindurasmal&theme=radical&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharindurasmal&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/tharindurasmal/tharindurasmal/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tharindurasmal&theme=radical&no-frame=true&no-bg=true&margin-w=5&row=1" alt="GitHub Trophies"/>
+</p>
 
 ---
 
