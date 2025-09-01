@@ -5,6 +5,13 @@
 <h1 align="center">Hi 👋, I'm Tharindu Rasmal</h1>
 <h3 align="center">A passionate Application Developer from Sri Lanka</h3>
 
+<!-- HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B,+I'm+Tharindu+Rasmal;Passionate+Application+Developer;Always+Learning+New+Things;Building+Cool+Projects" alt="Typing Animation"/>
+</p>
+
+---
+
 <!-- INTRO -->
 <h1 align="center">Hi 👋, I'm Tharindu Rasmal</h1>
 <h3 align="center">🚀 A passionate Application Developer from Sri Lanka</h3>
